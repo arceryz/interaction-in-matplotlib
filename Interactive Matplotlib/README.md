@@ -1,5 +1,8 @@
 # Interactive Matplotlib
 
+*What you learn in this template:*
+![Header](header.gif)
+
 This template document contains the basic code to
 have an animated matplotlib graph with sliders to control
 variables and a time value passed to update function.
