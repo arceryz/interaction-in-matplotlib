@@ -62,9 +62,6 @@ ylist = np.zeros(100)
 # We link the xlist and ylist to the plot here.
 # It returns a list of Line2D's, we have only one so take the first.
 graph1: Line2D = root_axes.plot(xlist, ylist)[0]
-# Equivalent:
-# root_axes.set_xdata(xlist)
-# root_axes.set_ydata(ylist)
 
 #
 # The axes are the actual UI elements in matplotlib.
