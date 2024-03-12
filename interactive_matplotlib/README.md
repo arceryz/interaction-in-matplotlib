@@ -1,6 +1,6 @@
 # Interactive Matplotlib
 
-- Article ![Bring Plots To Life](https://poro5.com/bringtolife)
+- Article [Bring Plots To Life](https://poro5.com/bringtolife)
 
 *What you learn in this template:*
 ![Header](header.gif)
