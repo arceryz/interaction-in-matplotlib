@@ -3,5 +3,4 @@ Repository with highly commented templates and scripts mostly python to learn fr
 
 # Gallery
 
-- Interactive Matplotlib graphs.
-![/Interactive_Matplotlib/](/Interactive_Matplotlib/header.gif)
+- [Interactive Matplotlib Graphs](/interactive_matplotlib)
